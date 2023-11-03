@@ -43,7 +43,7 @@
 import { ref } from 'vue'
 
 const value1 = ref('')
-const value2 = ref('')
+const value2 = ref('2023-10')
 const value3 = ref('')
 const value4 = ref('')
 </script>
